@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Oxanium';
+    src: url('Oxanium-Light.eot');
+    src: url('Oxanium-Light.eot?#iefix') format('embedded-opentype'),
+        url('Oxanium-Light.woff2') format('woff2'),
+        url('Oxanium-Light.woff') format('woff'),
+        url('Oxanium-Light.ttf') format('truetype'),
+        url('Oxanium-Light.svg#Oxanium-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
